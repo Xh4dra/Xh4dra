@@ -21,10 +21,6 @@
 - **Java**: Spring Boot
 - **Bash**: Скрипты для автоматизации
 
-### Базы данных
-- PostgreSQL
-- SQLite
-
 ---
 
 ## Статистика GitHub
