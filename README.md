@@ -12,7 +12,7 @@
 ## Технологический стек
 
 ### ОС и инструменты
-- **ОС**: Windows 11 (ранее EndeavourOS / Arch Linux)
+- **ОС**: Windows 11
 - **Редактор**: IntelliJ IDEA, VS Code
 - **Прочее**: Git, Gradle, Maven
 
